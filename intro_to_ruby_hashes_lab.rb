@@ -32,5 +32,5 @@ def monopoly_with_third_tier
 end
 
 def monopoly_with_fourth_tier
-  monopoly_with_third_tier[:railroads][:rent_in_dollars]
+  monopoly_with_third_tier[:railroads][:names][:reading_railroad]
 end
