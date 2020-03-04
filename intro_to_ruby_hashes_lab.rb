@@ -37,4 +37,5 @@ def monopoly_with_fourth_tier
   [:railroads][:names][:pennsylvania_railroad]["mortgage_value"] => "$200"
    [:railroads][:names][:b_and_o_railroad_railroad]["mortgage_value"] => "$400"
     [:railroads][:names][:shortline_railroad_railroad]["mortgage_value"] => "$800"
+    monopoly_with_third_tier
 end
